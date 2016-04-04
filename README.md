@@ -1,4 +1,4 @@
-Copyright (c) 2011 Farzad Battiwalla
+Copyright (c) 2016 Farzad Battiwalla
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
